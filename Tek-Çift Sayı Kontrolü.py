@@ -1,0 +1,5 @@
+sayı=int(input("sayı giriniz: "))
+if sayı%2==0:
+    print("sayı çifttir.")
+else:
+    print("sayı tektir.")
